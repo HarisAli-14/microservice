@@ -1,0 +1,3 @@
+export const APP_OPTIONS = 'APP_OPTIONS';
+
+export const DEFAULT_BALANCE_STALE_MS = 60_000;
